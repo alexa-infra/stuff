@@ -1,0 +1,1 @@
+cl /Feupdatepath.exe /link user32.lib main.cpp
